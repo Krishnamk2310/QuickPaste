@@ -1,12 +1,22 @@
-# React + Vite
+# QuickPaste
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickPaste is a sleek and minimalist web application that lets users quickly create, view, copy, delete, and share pastes with ease. Built with modern web technologies, QuickPaste is optimized for speed, simplicity, and smooth user experience.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✍️ Create and save custom pastes  
+- 🔗 Share pastes via unique URLs  
+- 📋 One-click copy to clipboard  
+- 👁️ Instantly view and navigate to any paste  
+- 🗑️ Delete pastes when no longer needed  
+- ⚡ Fast, responsive, and mobile-friendly UI  
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 💻 HTML & CSS – Core structure and base styling  
+- 🎨 Tailwind CSS – Utility-first styling for rapid UI development  
+- ⚛️ React.js – Dynamic and responsive component-based frontend  
+- 📜 JavaScript – Client-side functionality and paste handling  
+
+> Unlike bulky note-taking apps or file-sharing platforms, QuickPaste focuses on one thing and does it well: fast and reliable paste management.  
+> No sign-up, no bloat — just pasting and sharing, the way it should be.
