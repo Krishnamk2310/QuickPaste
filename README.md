@@ -5,7 +5,7 @@ QuickPaste is a sleek and minimalist web application that lets users quickly cre
 ## 🌟 Features
 
 - ✍️ Create and save custom pastes  
-- 🔗 Share pastes via unique URLs  
+- 🔗 Share pastes via unique URL  
 - 📋 One-click copy to clipboard  
 - 👁️ Instantly view and navigate to any paste  
 - 🗑️ Delete pastes when no longer needed  
