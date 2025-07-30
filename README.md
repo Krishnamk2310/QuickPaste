@@ -19,4 +19,4 @@ QuickPaste is a sleek and minimalist web application that lets users quickly cre
 - 📜 JavaScript – Client-side functionality and paste handling  
 
 > Unlike bulky note-taking apps or file-sharing platforms, QuickPaste focuses on one thing and does it well: fast and reliable paste management.  
-> No sign-up, no bloat — just pasting and sharing, the way it should be.
+> No sign-up, no bloat — just pasting and sharing , the way it should be.
